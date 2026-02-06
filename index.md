@@ -5,7 +5,7 @@ title: Home
 
 <section id="hero" class="hero">
  
-        <img src="{{ '/assets/hiGainDesign_sm.png' | relative_url }}" alt="{{ site.title }}" height="40">
+        <img src="{{ '/assets/hiGainDesign_sm.png' | relative_url }}" alt="{{ site.title }}" height="40"/>
     
   <h1>HiGain Design Services</h1>
   
