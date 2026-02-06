@@ -24,6 +24,7 @@ title: Home
       <span class="capability">Drafting</span>
     </div>
     </div>
+    </div>
  
   <a href="{{ '/contact' | relative_url }}" class="btn">Get Started</a>
 </div>
