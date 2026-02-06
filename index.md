@@ -3,10 +3,11 @@ layout: default
 title: Home
 ---
 
-<div class="hero">
-  <img src="{{ '/assets/hiGainDesign_sm.png' | relative_url }}" alt="HiGain Design Logo" class="hero-logo">
-  <h2>Welcome to HiGain Design Services</h2>
-</div>
+<section id="hero" class="hero">
+  <h1>HiGain Design Services</h1>
+  
+  <p class="hero-blurb">Expert PCB design services backed by 30+ years of experience. From schematic to assembly, we deliver accurate layouts with constant focus on cost, quality, and schedule.</p>
+  
   <div class="capabilities">
     <span class="capability">DC TO Ka BAND</span>
     <span class="capability">SMT</span>
@@ -19,5 +20,43 @@ title: Home
     <span class="capability">Schematics</span>
     <span class="capability">Drafting</span>
   </div>
-<div class="body"><p>Expert PCB design services backed by 30+ years of experience. From schematic to assembly, we deliver accurate layouts with constant focus on cost, quality, and schedule.</p>
- </div>
+    
+  <a href="#contact" class="btn">Get Started</a>
+</section>
+
+<section id="about" class="section">
+  <h2>About Us</h2>
+  <p>HiGain Design Services brings over 30 years of experience in engineering support, design, and packaging of electronic equipment. Our expertise spans printed circuit board layout, symbol library generation and maintenance, design process creation, and documentation that ensures accurate and consistent results.</p>
+  <p>Whether you call them PCBs, PWBs, or CCAs, we understand they are critical to your success. We also maintain extensive industry contacts for fabrication and assembly support, helping you take your product from design through production.</p>
+</section>
+
+<section id="services" class="section section-alt">
+  <h2>Services</h2>
+  <div class="services-grid">
+    <div class="service-card">
+      <h3>PCB Layout</h3>
+      <p>Complete circuit board layout for engineers at every experience level, from simple digital boards to complex RF and microwave designs.</p>
+    </div>
+    <div class="service-card">
+      <h3>Library Development</h3>
+      <p>Symbol and footprint library creation and maintenance to ensure consistency across all your designs.</p>
+    </div>
+    <div class="service-card">
+      <h3>Design Process</h3>
+      <p>Development and documentation of design processes that deliver accurate, repeatable results.</p>
+    </div>
+    <div class="service-card">
+      <h3>Fabrication Support</h3>
+      <p>Connections to trusted fabrication and assembly partners throughout the industry.</p>
+    </div>
+  </div>
+</section>
+
+<section id="contact" class="section">
+  <h2>Contact</h2>
+  <p>Ready to start your project? Get in touch.</p>
+  <div class="contact-info">
+    <p><strong>Email:</strong> <a href="mailto:hello@higaindesign.com">hello@higaindesign.com</a></p>
+    <p><strong>Location:</strong> Atlanta, Georgia</p>
+  </div>
+</section>
