@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 <section id="hero" class="hero">
-  <img src="{{ '/assets/hiGainDesign_sm.png' | relative_url }}" alt="{{ site.title }}" height="100"/>
+  <img src="{{ '/assets/hiGainDesign_sm.png' | relative_url }}" alt="{{ site.title }}" height="125"/>
   <h1>HiGain Design Services</h1>
   <p class="hero-blurb">Expert PCB design services backed by 30+ years of experience. From schematic to assembly, we deliver accurate layouts with constant focus on cost, quality, and schedule.</p>
   <div class="capabilities">
