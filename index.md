@@ -46,6 +46,20 @@ title: Home
       <p>Connections to trusted fabrication and assembly partners throughout the industry.</p>
     </div>
   </div>
+  <div class="services-gallery">
+    <figure>
+      <img src="{{ '/assets/images/PWBDIG4.jpg' | relative_url }}" alt="Digital PCB Layout">
+      <figcaption>Digital Layout</figcaption>
+    </figure>
+    <figure>
+      <img src="{{ '/assets/images/PWBFLT3.jpg' | relative_url }}" alt="Filter PCB Layout">
+      <figcaption>Filter Layout</figcaption>
+    </figure>
+    <figure>
+      <img src="{{ '/assets/images/SCHEM1.jpg' | relative_url }}" alt="Schematic Design">
+      <figcaption>Schematic</figcaption>
+    </figure>
+  </div>
 </section>
 
 <section id="contact" class="section">
