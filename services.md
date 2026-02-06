@@ -5,14 +5,8 @@ title: Services
 
 # Our Services
 
-## Brand Design
+HiGain Design Services provides complete PCB layout and computer-aided design support for engineers at every experience level.
 
-Complete brand identity development including logos, color systems, and brand guidelines.
+Our priority is delivering accurate layouts from engineering through purchasing and assembly. We maintain constant focus on three factors: cost, quality, and schedule.
 
-## Web Design
-
-Modern, responsive website design focused on user experience and conversion.
-
-## Print Design
-
-Marketing collateral, business cards, brochures, and promotional materials.
+Our services include circuit board layout, symbol library creation and maintenance, design process development, and comprehensive documentation. We can also connect you with trusted fabrication and assembly partners throughout the industry.
