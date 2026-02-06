@@ -47,9 +47,9 @@ nav {
   width: auto;
 }
 .hero-logo {
-  width: 150px;
+  width: 100px;
   height: auto;
-  margin-bottom: 1rem;
+  margin-bottom: .5rem;
 }
 /* Capabilities grid */
 .capabilities {
@@ -75,12 +75,7 @@ nav {
   white-space: nowrap;
 }
 
-@media (max-width: 768px) {
-  .capability {
-    font-size: 0.8rem;
-    padding: 0.5rem 1rem;
-  }
-}
+
 nav ul {
   display: flex;
   list-style: none;
