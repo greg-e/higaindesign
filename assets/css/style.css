@@ -47,9 +47,9 @@ nav {
   width: auto;
 }
 .hero-logo {
-  width: 100px;
+  width: 150px;
   height: auto;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 /* Capabilities grid */
 .capabilities {
@@ -116,12 +116,13 @@ main {
   min-height: calc(100vh - 100px);
 }
 
+
+
 /* Hero section */
 .hero {
   text-align: center;
-  padding: 2rem 0;
+  padding: 1.5rem 0;
 }
-
 .hero h1 {
   font-size: 3rem;
   margin-bottom: 1rem;
