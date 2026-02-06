@@ -148,8 +148,8 @@ main {
   justify-content: center;
   align-items: center;
   gap: 0.5rem;
-  margin: 1.5rem auto;
-  max-width: 900px;
+  margin: .5rem auto;
+  
 }
 
 .capability {
