@@ -5,12 +5,6 @@ title: About
 
 # About HiGain Design
 
-We are a design service dedicated to helping businesses achieve their goals through strategic design solutions.
+HiGain Design Services brings over 30 years of experience in engineering support, design, and packaging of electronic equipment. Our expertise spans printed circuit board layout, symbol library generation and maintenance, design process creation, and documentation that ensures accurate and consistent results.
 
-## Our Mission
-
-To deliver high-quality design work that creates measurable impact for our clients.
-
-## Our Approach
-
-We believe in understanding your business first, then crafting solutions that align with your objectives.
+Whether you call them PCBs, PWBs, or CCAs, we understand they are critical to your success. We also maintain extensive industry contacts for fabrication and assembly support, helping you take your product from design through production.
