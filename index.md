@@ -8,24 +8,20 @@ title: Home
   <h1>HiGain Design Services</h1>
   
   <p>Welcome to HiGain Design Services</p>
-   <div class="capabilities">
-    <div class="capability-group">
-      <span class="capability">DC TO Ka BAND</span>
-      <span class="capability">SMT</span>
-      <span class="capability">THRUHOLE</span>
+  
+  <div class="capabilities">
+    <span class="capability">DC TO Ka BAND</span>
+    <span class="capability">SMT</span>
+    <span class="capability">THRUHOLE</span>
+    <span class="capability">RF</span>
+    <span class="capability">Analog</span>
+    <span class="capability">Microwave</span>
+    <span class="capability">Digital</span>
+    <span class="capability">Power Supplies</span>
+    <span class="capability">Schematics</span>
+    <span class="capability">Drafting</span>
+  </div>
     
-      <span class="capability">RF</span>
-      <span class="capability">Analog</span>
-      <span class="capability">Microwave</span>
-      <span class="capability">Digital</span>
-    
-      <span class="capability">Power Supplies</span>
-      <span class="capability">Schematics</span>
-      <span class="capability">Drafting</span>
-    </div>
-    </div>
-    </div>
- 
   <a href="{{ '/contact' | relative_url }}" class="btn">Get Started</a>
 </div>
 <div class="body"><p>If you are new to design or someone who has many years of experience and knowledge, HiGain Design Services can help you with your circuit layouts and other computer aided design requirements.</p>
