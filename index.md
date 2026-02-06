@@ -23,6 +23,7 @@ title: Home
       <span class="capability">Schematics</span>
       <span class="capability">Drafting</span>
     </div>
+    </div>
  
   <a href="{{ '/contact' | relative_url }}" class="btn">Get Started</a>
 </div>
