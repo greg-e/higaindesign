@@ -13,14 +13,12 @@ title: Home
       <span class="capability">DC TO Ka BAND</span>
       <span class="capability">SMT</span>
       <span class="capability">THRUHOLE</span>
-    </div>
-    <div class="capability-group">
+    
       <span class="capability">RF</span>
       <span class="capability">Analog</span>
       <span class="capability">Microwave</span>
       <span class="capability">Digital</span>
-    </div>
-    <div class="capability-group">
+    
       <span class="capability">Power Supplies</span>
       <span class="capability">Schematics</span>
       <span class="capability">Drafting</span>
