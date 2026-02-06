@@ -23,7 +23,7 @@ title: Home
       <span class="capability">Schematics</span>
       <span class="capability">Drafting</span>
     </div>
-  </div>
+ 
   <a href="{{ '/contact' | relative_url }}" class="btn">Get Started</a>
 </div>
 <div class="body"><p>If you are new to design or someone who has many years of experience and knowledge, HiGain Design Services can help you with your circuit layouts and other computer aided design requirements.</p>
