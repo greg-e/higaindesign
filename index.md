@@ -4,9 +4,9 @@ title: Home
 ---
 
 <section id="hero" class="hero">
- <a href="{{ '/' | relative_url }}" class="logo">
+ 
         <img src="{{ '/assets/hiGainDesign_sm.png' | relative_url }}" alt="{{ site.title }}" height="40">
-      </a>
+    
   <h1>HiGain Design Services</h1>
   
   <p class="hero-blurb">Expert PCB design services backed by 30+ years of experience. From schematic to assembly, we deliver accurate layouts with constant focus on cost, quality, and schedule.</p>
