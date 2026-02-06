@@ -8,6 +8,10 @@ title: Home
   
   <p class="hero-blurb">Expert PCB design services backed by 30+ years of experience. From schematic to assembly, we deliver accurate layouts with constant focus on cost, quality, and schedule.</p>
   
+
+    
+  
+</section>
   <div class="capabilities">
     <span class="capability">DC TO Ka BAND</span>
     <span class="capability">SMT</span>
@@ -20,10 +24,6 @@ title: Home
     <span class="capability">Schematics</span>
     <span class="capability">Drafting</span>
   </div>
-    
-  <a href="#contact" class="btn">Get Started</a>
-</section>
-
 <section id="about" class="section">
   <h2>About Us</h2>
   <p>HiGain Design Services brings over 30 years of experience in engineering support, design, and packaging of electronic equipment. Our expertise spans printed circuit board layout, symbol library generation and maintenance, design process creation, and documentation that ensures accurate and consistent results.</p>
