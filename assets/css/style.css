@@ -163,7 +163,7 @@ main {
   border: 1px solid var(--border);
   padding: 0.4rem 0.8rem;
   border-radius: 6px;
-  font-size: 1.5rem;
+  font-size: 1rem;
   font-weight: 500;
   color: var(--text);
   white-space: nowrap;
@@ -173,7 +173,7 @@ main {
 .services-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 1.5rem;
+  gap: 1rem;
   max-width: 900px;
   margin: 2rem auto 0;
 }
@@ -187,13 +187,13 @@ main {
 }
 
 .service-card h3 {
-  font-size: 2rem;
+  font-size: 1rem;
   margin-bottom: 0.5rem;
   color: var(--text);
 }
 
 .service-card p {
-  font-size: 1.25rem;
+  font-size: .85rem;
   color: var(--text-light);
   margin: 0;
   text-align: left;
@@ -248,7 +248,7 @@ footer {
   }
   
   .hero-blurb {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
   }
   
   .section {
