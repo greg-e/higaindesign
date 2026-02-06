@@ -168,7 +168,34 @@ main {
   color: var(--text);
   white-space: nowrap;
 }
+/* Services gallery */
+.services-gallery {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2.5rem;
+  flex-wrap: wrap;
+}
 
+.services-gallery figure {
+  margin: 0;
+  text-align: center;
+}
+
+.services-gallery img {
+  max-width: 250px;
+  height: auto;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: var(--bg);
+  padding: 0.5rem;
+}
+
+.services-gallery figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  color: var(--text-light);
+}
 /* Services grid */
 .services-grid {
   display: grid;
