@@ -5,13 +5,7 @@ title: Home
 
 <div class="hero">
   <img src="{{ '/assets/hiGainDesign_sm.png' | relative_url }}" alt="HiGain Design Logo" class="hero-logo">
-  <h1>HiGain Design Services</h1>
-  
-  <p>Welcome to HiGain Design Services</p>
-  
-
-    
- 
+  <h2>Welcome to HiGain Design Services</h2>
 </div>
   <div class="capabilities">
     <span class="capability">DC TO Ka BAND</span>
