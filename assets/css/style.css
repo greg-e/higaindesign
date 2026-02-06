@@ -163,8 +163,8 @@ main {
   border: 1px solid var(--border);
   padding: 0.4rem 0.8rem;
   border-radius: 6px;
-  font-size: 1rem;
-  font-weight: 1000;
+  font-size: .85rem;
+  font-weight: 600;
   color: var(--text);
   white-space: nowrap;
 }
