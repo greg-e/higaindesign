@@ -52,7 +52,8 @@ title: Home
   <h2>Contact</h2>
   <p>Ready to start your project? Get in touch.</p>
   <div class="contact-info">
-    <p><strong>Email:</strong> <a href="mailto:hello@higaindesign.com">hello@higaindesign.com</a></p>
-    <p><strong>Location:</strong> Atlanta, Georgia</p>
+    <p><strong>Email:</strong> <a href="mailto:contact@higaindesign.com">contact@higaindesign.com</a></p>
+    <p><strong>Location:</strong> Norcross, Georgia</p>
+    <p>Phone: 770-921-3129</p>
   </div>
 </section>
