@@ -46,6 +46,11 @@ nav {
   height: 80px;
   width: auto;
 }
+.hero-logo {
+  width: 200px;
+  height: auto;
+  margin-bottom: 2rem;
+}
 
 nav ul {
   display: flex;
