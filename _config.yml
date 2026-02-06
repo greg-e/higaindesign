@@ -1,0 +1,16 @@
+title: HiGain Design
+description: HiGain Design Service
+baseurl: "/higaindesign"
+url: "https://greg-e.github.io"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
