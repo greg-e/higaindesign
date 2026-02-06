@@ -19,12 +19,5 @@ title: Home
     <span class="capability">Schematics</span>
     <span class="capability">Drafting</span>
   </div>
-<div class="body"><p>If you are new to design or someone who has many years of experience and knowledge, HiGain Design Services can help you with your circuit layouts and other computer aided design requirements.</p>
- <p>Some call them PCBs (printed circuit boards), PWBs (printed wiring boards),CCA (circuit card assemblies) or maybe by some other name. What ever you call them, we know they are critical to your success. At HiGain Design Services our top priority is to provide a complete and accurate pcb layout from the standpoint of engineering, to purchasing and through assembly. We have constant concerns for cost, quality and schedules.</p>
-<p> We have over 30 years of experience in engineering support, design and packaging of electronic equipment with particular experience in printed circuit board layout, generation and maintenance of symbol libraries, the creation and support of design processes, and documentation that provide accurate and consistent designs.</p>
-
-<p> We can help you with our many contacts throughout the industry in the fabrication and assembly of your products.</p>
-
-<p> If you have comments or questions about our services, or simply need more information and want to contact us, click on the contact button on any page within this site.</p>
-
-<p>Thanks for visiting and we look forward to serving you.</p></div>
+<div class="body"><p>Expert PCB design services backed by 30+ years of experience. From schematic to assembly, we deliver accurate layouts with constant focus on cost, quality, and schedule.</p>
+ </div>
