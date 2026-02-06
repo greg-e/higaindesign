@@ -2,19 +2,10 @@
 layout: default
 title: Home
 ---
-
 <section id="hero" class="hero">
- 
-        <img src="{{ '/assets/hiGainDesign_sm.png' | relative_url }}" alt="{{ site.title }}" height="40"/>
-    
+  <img src="{{ '/assets/hiGainDesign_sm.png' | relative_url }}" alt="{{ site.title }}" height="40"/>
   <h1>HiGain Design Services</h1>
-  
   <p class="hero-blurb">Expert PCB design services backed by 30+ years of experience. From schematic to assembly, we deliver accurate layouts with constant focus on cost, quality, and schedule.</p>
-  
-
-    
-  
-</section>
   <div class="capabilities">
     <span class="capability">DC TO Ka BAND</span>
     <span class="capability">SMT</span>
@@ -27,6 +18,8 @@ title: Home
     <span class="capability">Schematics</span>
     <span class="capability">Drafting</span>
   </div>
+</section>
+
 <section id="about" class="section">
   <h2>About Us</h2>
   <p>HiGain Design Services brings over 30 years of experience in engineering support, design, and packaging of electronic equipment. Our expertise spans printed circuit board layout, symbol library generation and maintenance, design process creation, and documentation that ensures accurate and consistent results.</p>
