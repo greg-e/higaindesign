@@ -22,7 +22,7 @@ title: Home
     <span class="capability">Drafting</span>
   </div>
     
-  <a href="{{ '/contact' | relative_url }}" class="btn">Get Started</a>
+ 
 </div>
 <div class="body"><p>If you are new to design or someone who has many years of experience and knowledge, HiGain Design Services can help you with your circuit layouts and other computer aided design requirements.</p>
  <p>Some call them PCBs (printed circuit boards), PWBs (printed wiring boards),CCA (circuit card assemblies) or maybe by some other name. What ever you call them, we know they are critical to your success. At HiGain Design Services our top priority is to provide a complete and accurate pcb layout from the standpoint of engineering, to purchasing and through assembly. We have constant concerns for cost, quality and schedules.</p>
