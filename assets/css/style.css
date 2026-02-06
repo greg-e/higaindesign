@@ -14,7 +14,9 @@
   --bg-alt: #f9fafb;
   --border: #e5e7eb;
 }
-
+h1, h2, h3, .capability {
+  font-family: 'Orbitron', sans-serif;
+}
 html {
   scroll-behavior: smooth;
 }
