@@ -9,6 +9,10 @@ title: Home
   
   <p>Welcome to HiGain Design Services</p>
   
+
+    
+ 
+</div>
   <div class="capabilities">
     <span class="capability">DC TO Ka BAND</span>
     <span class="capability">SMT</span>
@@ -21,9 +25,6 @@ title: Home
     <span class="capability">Schematics</span>
     <span class="capability">Drafting</span>
   </div>
-    
- 
-</div>
 <div class="body"><p>If you are new to design or someone who has many years of experience and knowledge, HiGain Design Services can help you with your circuit layouts and other computer aided design requirements.</p>
  <p>Some call them PCBs (printed circuit boards), PWBs (printed wiring boards),CCA (circuit card assemblies) or maybe by some other name. What ever you call them, we know they are critical to your success. At HiGain Design Services our top priority is to provide a complete and accurate pcb layout from the standpoint of engineering, to purchasing and through assembly. We have constant concerns for cost, quality and schedules.</p>
 <p> We have over 30 years of experience in engineering support, design and packaging of electronic equipment with particular experience in printed circuit board layout, generation and maintenance of symbol libraries, the creation and support of design processes, and documentation that provide accurate and consistent designs.</p>
