@@ -106,7 +106,7 @@ nav a:hover {
   margin-top: -0.15em;     /* tighten between lines */
 }
 .hero-logo {
-  height: 90px;        /* controls visual size */
+  height: 125px;        /* controls visual size */
   width: auto;         /* preserves aspect ratio */
   display: block;      /* removes inline gap issues */
   flex-shrink: 0;      /* prevents logo from compressing in flex row */
