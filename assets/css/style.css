@@ -76,21 +76,32 @@ nav a:hover {
   color: var(--primary);
 }
 
+/* Hero section (keep your padding here) */
 .hero {
+  text-align: center;
+  padding: 3rem 2rem 4rem;
+}
+
+/* The “logo + title” row */
+.hero-head {
   display: flex;
-  align-items: center;   /* vertical alignment */
-  justify-content: center; /* center the pair on the page */
-  gap: 16px;             /* tight spacing between logo and text */
+  align-items: center;
+  justify-content: center; /* centers the pair as a unit */
+  gap: 16px;
 }
 
 .hero-logo {
   height: 150px;
+  width: auto;
 }
 
 .hero-title {
   margin: 0;
-  text-align: left;      /* keeps text snug to the logo */
+  text-align: left; /* keeps text snug to logo */
+  font-size: 2.5rem;
+  color: var(--text);
 }
+
 
 
 /* Main content */
