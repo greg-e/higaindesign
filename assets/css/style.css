@@ -217,13 +217,18 @@ main {
   font-size: 0.85rem;
   color: var(--text-light);
 }
+
+
+
+
+
 /* Services grid */
 .services-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 1rem;
+  gap: 24px;
   max-width: 900px;
-  margin: 2rem auto 0;
+  margin: 0 auto;
 }
 
 .service-card {
@@ -251,6 +256,12 @@ main {
   .services-grid {
     grid-template-columns: 1fr;
   }
+}
+/* Center the third card under the first two */
+.services-grid .service-card:nth-child(3) {
+  grid-column: 1 / -1;   /* span both columns */
+  justify-self: center;  /* center horizontally */
+  max-width: 400px;      /* optional width control */
 }
 
 /* Contact */
