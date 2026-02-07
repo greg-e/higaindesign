@@ -5,6 +5,13 @@ title: Home
 <section id="hero" class="hero">
   
   <h1><img src="{{ '/assets/hiGainDesign_sm.png' | relative_url }}" alt="{{ site.title }}" height="150"/>HiGain Design<br> Services</h1>
+  <h1 class="hero-title">
+  <img src="{{ '/assets/hiGainDesign_sm.png' | relative_url }}" alt="{{ site.title }}" class="hero-logo" />
+  <span class="hero-text">
+    HiGain Design<br>Services
+  </span>
+</h1>
+
   <p class="hero-blurb">Expert PCB design services backed by 45+ years of experience. From schematic capture through board layout, we deliver accurate designs with constant focus on cost, quality, and schedule.</p>
   <div class="capabilities">
     <span class="capability">DC TO Ka BAND</span>
