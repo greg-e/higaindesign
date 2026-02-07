@@ -5,7 +5,7 @@ title: Home
 <section id="hero" class="hero">
   <img src="{{ '/assets/hiGainDesign_sm.png' | relative_url }}" alt="{{ site.title }}" height="150"/>
   <h1>HiGain Design Services</h1>
-  <p class="hero-blurb">Expert PCB design services backed by 30+ years of experience. From schematic to assembly, we deliver accurate layouts with constant focus on cost, quality, and schedule.</p>
+  <p class="hero-blurb">Expert PCB design services backed by 45+ years of experience. From schematic capture through board layout, we deliver accurate designs with constant focus on cost, quality, and schedule.</p>
   <div class="capabilities">
     <span class="capability">DC TO Ka BAND</span>
     <span class="capability">SMT</span>
@@ -16,14 +16,14 @@ title: Home
     <span class="capability">Digital</span>
     <span class="capability">Power Supplies</span>
     <span class="capability">Schematics</span>
-    <span class="capability">Drafting</span>
+    
   </div>
 </section>
 
 <section id="about" class="section">
   <h2>About Us</h2>
-  <p>HiGain Design Services brings over 30 years of experience in engineering support, design, and packaging of electronic equipment. Our expertise spans printed circuit board layout, symbol library generation and maintenance, design process creation, and documentation that ensures accurate and consistent results.</p>
-  <p>Whether you call them PCBs, PWBs, or CCAs, we understand they are critical to your success. We also maintain extensive industry contacts for fabrication and assembly support, helping you take your product from design through production.</p>
+  <p>HiGain Design Services brings over 45 years of experience in engineering support, design, and packaging of electronic equipment. Our expertise spans printed circuit board layout, symbol library generation and maintenance, design process creation, and documentation that ensures accurate and consistent results.</p>
+  <p>Whether you call them PCBs, PWBs, or CCAs, we understand they are critical to your success.</p>
 </section>
 
 <section id="services" class="section section-alt">
@@ -41,10 +41,7 @@ title: Home
       <h3>Design Process</h3>
       <p>Development and documentation of design processes that deliver accurate, repeatable results.</p>
     </div>
-    <div class="service-card">
-      <h3>Fabrication Support</h3>
-      <p>Connections to trusted fabrication and assembly partners throughout the industry.</p>
-    </div>
+  
   </div>
   <div class="services-gallery">
     <figure>
