@@ -5,14 +5,15 @@ title: Home
 <section id="hero" class="hero">
  
 <section id="hero" class="hero">
-  <div class="hero-head">
-    <img src="{{ '/assets/hiGainDesign_sm.png' | relative_url }}" alt="{{ site.title }}" class="hero-logo" />
-    <h1 class="hero-title">
-  <span>HiGain Design</span>
-  <span class="sub">Services</span>
-</h1>
+<div class="hero-head">
+  <img src="{{ '/assets/hiGainDesign_sm.png' | relative_url }}" alt="{{ site.title }}" class="hero-logo" />
 
-  </div>
+  <h1 class="hero-title">
+    <span>HiGain Design</span>
+    <span class="sub">Services</span>
+  </h1>
+</div>
+
 
   <p class="hero-blurb">Expert PCB design services backed by 45+ years of experience. From schematic capture through board layout, we deliver accurate designs with constant focus on cost, quality, and schedule.</p>
 
