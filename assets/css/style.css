@@ -83,31 +83,28 @@ nav a:hover {
 }
 
 /* The “logo + title” row */
-.hero-head {
+.hero-head{
   display: flex;
   align-items: center;
-  justify-content: center; /* centers the pair as a unit */
-  gap: 16px;
+  justify-content: center; /* centers logo+title group as a whole */
+  gap: 2rem;               /* adjust to taste */
 }
 
-.hero-logo {
-  height: 150px;
-  width: auto;
-}
-
-.hero-title {
+.hero-title{
+  display: inline-block;   /* shrink-wrap to text width */
+  text-align: center;      /* centers the second line under the first */
   margin: 0;
-  text-align: left; /* keeps text snug to logo */
-  font-size: 2.5rem;
-  color: var(--text);
+  line-height: 1.05;       /* global line tightness */
 }
-.hero-title span {
+
+.hero-title span{
   display: block;
 }
 
-.hero-title .sub {
-  margin-top: -0.1em;  /* fine adjustment */
+.hero-title .sub{
+  margin-top: -0.15em;     /* tighten between lines */
 }
+
 
 
 
