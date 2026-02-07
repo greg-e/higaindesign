@@ -4,15 +4,14 @@ title: Home
 ---
 <section id="hero" class="hero">
  
-<div class="hero">
-  <img src="{{ '/assets/hiGainDesign_sm.png' | relative_url }}" alt="{{ site.title }}" class="hero-logo" />
-  <h1 class="hero-title">
-    HiGain Design<br>Services
-  </h1>
-</div>
+<section id="hero" class="hero">
+  <div class="hero-head">
+    <img src="{{ '/assets/hiGainDesign_sm.png' | relative_url }}" alt="{{ site.title }}" class="hero-logo" />
+    <h1 class="hero-title">HiGain Design<br>Services</h1>
+  </div>
 
-</section>
   <p class="hero-blurb">Expert PCB design services backed by 45+ years of experience. From schematic capture through board layout, we deliver accurate designs with constant focus on cost, quality, and schedule.</p>
+
   <div class="capabilities">
     <span class="capability">DC TO Ka BAND</span>
     <span class="capability">SMT</span>
@@ -23,8 +22,9 @@ title: Home
     <span class="capability">Digital</span>
     <span class="capability">Power Supplies</span>
     <span class="capability">Schematics</span>
-    
   </div>
+</section>
+
 
 
 <section id="about" class="section">
