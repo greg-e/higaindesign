@@ -11,7 +11,7 @@ title: Home
   </h1>
 </div>
 
-
+</section>
   <p class="hero-blurb">Expert PCB design services backed by 45+ years of experience. From schematic capture through board layout, we deliver accurate designs with constant focus on cost, quality, and schedule.</p>
   <div class="capabilities">
     <span class="capability">DC TO Ka BAND</span>
@@ -25,7 +25,7 @@ title: Home
     <span class="capability">Schematics</span>
     
   </div>
-</section>
+
 
 <section id="about" class="section">
   <h2>About Us</h2>
