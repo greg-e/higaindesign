@@ -3,8 +3,7 @@ layout: default
 title: Home
 ---
 <section id="hero" class="hero">
-  
-  <h1><img src="{{ '/assets/hiGainDesign_sm.png' | relative_url }}" alt="{{ site.title }}" height="150"/>HiGain Design<br> Services</h1>
+ 
   <h1 class="hero-title">
   <img src="{{ '/assets/hiGainDesign_sm.png' | relative_url }}" alt="{{ site.title }}" class="hero-logo" />
   <span class="hero-text">
