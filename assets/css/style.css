@@ -111,11 +111,7 @@ nav a:hover {
   display: block;      /* removes inline gap issues */
   flex-shrink: 0;      /* prevents logo from compressing in flex row */
 }
-@media (max-width: 640px) {
-  .hero-head {
-    flex-direction: column;   /* stack logo above title on mobile */
-    gap: 0.75rem;
-  }
+
 
   .hero-logo {
     height: 70px;
