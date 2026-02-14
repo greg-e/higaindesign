@@ -1,7 +1,6 @@
 title: HiGain Design
 description: HiGain Design Service
-baseurl: "/higaindesign"
-url: "https://greg-e.github.io"
+
 
 # Build settings
 markdown: kramdown
